@@ -1,0 +1,4 @@
+dotenv: .env
+wallets:
+  dst: ${KOVAN_PRIVATE_KEY}
+infura: ${WEB3_INFURA_PROJECT_ID}

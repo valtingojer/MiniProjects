@@ -1,0 +1,17 @@
+{
+    "contractName": "SimpleStorage",
+    "inputFilename": "SimpleStorage.sol",
+    "inputFilePath": "./SimpleStorage.sol",
+    "outputFilename": "SimpleStorage.json",
+    "outputFilePath": "./SimpleStorage.json",
+    "compilerVersion": "0.6.0",
+    "rpcServerHttpProviderAddress": "https://kovan.infura.io/v3/",
+    "chainId": 42,
+    "mainWalletIndex": 0,
+    "wallets": [
+        {
+            "address": "",
+            "privateKey": ""
+        }
+    ]
+}

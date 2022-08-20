@@ -1,0 +1,17 @@
+{
+    "contractName": "SimpleStorage",
+    "inputFilename": "SimpleStorage.sol",
+    "inputFilePath": "./SimpleStorage.sol",
+    "outputFilename": "SimpleStorage.json",
+    "outputFilePath": "./SimpleStorage.json",
+    "compilerVersion": "0.6.0",
+    "rpcServerHttpProviderAddress": "HTTP://127.0.0.1:7545",
+    "chainId": 1337,
+    "mainWalletIndex": 0,
+    "wallets": [
+        {
+            "address": "",
+            "privateKey": ""
+        }
+    ]
+}
