@@ -1,0 +1,35 @@
+{
+    "description": "AddMeFast",
+    "manifest_version": 2,
+    "name": "Automatize AddMeFast",
+    "version": "1.0",
+
+    "applications": {
+        "gecko": {
+          "id": "addmefast@auto.org"
+        }
+    },
+
+    "icons": {
+      "48": "img/icon-48.png",
+      "96": "img/icon-96.png"
+    },
+  
+    "permissions": [
+        "http://*/*",
+        "https://*/*"
+    ],
+
+    "browser_action": {
+        "default_icon": "img/icon-48.png",
+        "default_title": "AddMeFast Action",
+        "default_popup": "html/popup.html"
+    },
+
+    "content_scripts": [
+      {
+        "matches": ["*://*/*"],
+        "js": ["app.js"]
+      }
+    ]
+  }
