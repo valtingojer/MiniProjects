@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "AwesomeBMWallpaper",
+    "slug": "AwesomeBMWallpaper",
+    "version": "1.0.1",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.kekentertainment.awesomewallpaper.bm"
+    }
+  },
+  "name": "AwesomeBMWallpaper"
+}
