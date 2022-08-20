@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 99a3a3efbb18f6b48abe4650f1cb07a1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kekstreetfirst
+  fontNames:
+  - Kekstreetfirst
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8da1fc95c0ef0114ab84e834833870d7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
