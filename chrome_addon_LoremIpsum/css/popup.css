@@ -1,0 +1,25 @@
+html{
+    width: 400px;
+}
+body{
+    background-color: #1F2022;
+}
+.main-title{
+    text-align: center; color: #1E9EFF; 
+}
+.title{ 
+    color: #FDF6FE;
+}
+.subtitle{
+    color: #444446;
+}
+.text{
+    color: #ADAEB0;
+}
+.warning{
+    text-align: center; color: #FB634C;
+}
+#content{
+    min-height: 50px;
+    margin: 16px 4px;
+}

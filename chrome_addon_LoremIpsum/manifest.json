@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+    "name": "Lorem Ipsum Generator",
+    "version": "1.0",
+    "description": "Generates random lorem ipsum and copies it to clipboard",
+    "icons": {
+        "128": "./img/icon128.png",
+        "48": "./img/icon48.png",
+        "16": "./img/icon16.png"
+    },
+    "browser_action": {
+        "default_icon": "./img/icon16.png",
+        "default_popup": "./popup/index.html"
+    },
+
+    "permissions": [
+        "contextMenus"
+    ]
+}
