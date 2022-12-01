@@ -1,0 +1,13 @@
+﻿.\ngrok.exe http 50810 -host-header="localhost:50810"
+https://ngrok.com/
+
+
+
+
+.\ngrok.exe http localhost
+.\ngrok.exe http 58270 -host-header="localhost:58270"
+.\ngrok.exe http 8080 -host-header="localhost:8080"
+
+
+
+
